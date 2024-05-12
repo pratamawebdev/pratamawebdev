@@ -1,6 +1,6 @@
 # Hi, I'm Willy Pratama Cendana! 👋
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I am a Frontend Web Developer/Enthusiast who has approximately 1 year of experience. I am currently learning and working towards Fullstack Web Developer. I am also a graduate of Aisyiyah University Yogyakarta majoring in Information Technology with a final GPA of 3.89 and also a graduate of the Frontend Web Developer Bootcamp batch 14 at Dibimbing.Id with a final score of 98.84.
 
 ![pratamawebdev's Stats](https://github-readme-stats.vercel.app/api?username=pratamawebdev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
