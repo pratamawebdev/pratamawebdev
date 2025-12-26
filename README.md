@@ -6,10 +6,6 @@ I am a Frontend Web Developer/Enthusiast who has approximately 1 year of experie
 
 ## 🚀 About Me
 
-## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
-
-
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,firebase,git,github,mysql,nextjs,react,redux,sass,supabase,tailwind,vite,bootstrap)](https://skillicons.dev)
 
